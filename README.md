@@ -9,19 +9,12 @@ Se requiere crear los scripts html, css, sql y PHP listados a continuación:
 En el front-end:
 
 Crearemos un formulario con los siguientes campos:
-
--        Nombre
-
--        Primer apellido
-
--        Segundo apellido
-
--        email
-
--        Login
-
--        password
-
+ Nombre
+ Primer Apellido
+ Segundo Apellido
+ Email
+ Login
+ Password
 
 En este ejercicio se debe implementar una doble validación, tanto desde html como desde PHP. Se comprobará que todos los campos estén correctamente llenos antes de enviar los datos a una base de datos MySQL.
 
