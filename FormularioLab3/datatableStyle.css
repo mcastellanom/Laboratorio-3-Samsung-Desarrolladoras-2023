@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(155, 166, 177);
+}
+
+table {
+    margin: 0 auto;
+    width: 90%;
+    border-collapse: collapse;
+    background-color: rgb(40, 42, 52);
+    color: white;
+    font-family: Tahoma ,Verdana, sans-serif;
+    font-size: 13px;
+}
+
+th {
+    background-color: #4e525b;
+    color:rgb(251, 247, 247);
+    border-bottom: #6c707b;
+    border-bottom-style: solid;
+    font-family: Palatino;
+    text-transform: uppercase;
+    padding: 17px;
+}
+
+td {
+    border: 1px solid rgb(174, 174, 189);
+    border-style: dotted;
+    padding: 16px;
+}
